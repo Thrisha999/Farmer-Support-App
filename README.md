@@ -19,14 +19,6 @@ Small and marginal farmers in India often lack timely access to agricultural exp
 - 🗣️ **Voice Bot in Regional Languages**: Helps illiterate farmers interact easily.
 - 🔒 **Admin Dashboard**: For experts to add/update disease remedies and crop data.
 
-## 🧭 Workflow Overview
-```mermaid
-graph TD
-A[Farmer Uploads Image] --> B[AI Model Classifies Disease]
-B --> C[Shows Result with Treatment Info]
-A1[Farmer Enters Region/Soil] --> D[Crop Recommendation Engine]
-D --> E[Best Crop Suggestions]
-F[Farmer Asks Voice Bot] --> G[Gemini NLP + Backend Response]
 
 🛠️ Tech Stack
 Layer	Tools & Technologies
